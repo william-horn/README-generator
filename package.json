@@ -1,0 +1,24 @@
+{
+  "name": "readme-generator-2.0",
+  "version": "1.0.0",
+  "description": "An application that generates a README.md file from a sequence of command line prompts",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/william-horn/README-generator.git"
+  },
+  "keywords": [
+    "readme",
+    "generator"
+  ],
+  "author": "William J. Horn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/william-horn/README-generator/issues"
+  },
+  "homepage": "https://github.com/william-horn/README-generator#readme",
+  "type": "module",
+  "dependencies": {
+    "inquirer": "^8.2.2"
+  }
+}
