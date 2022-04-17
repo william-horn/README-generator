@@ -17,7 +17,6 @@
     "url": "https://github.com/william-horn/README-generator/issues"
   },
   "homepage": "https://github.com/william-horn/README-generator#readme",
-  "type": "module",
   "dependencies": {
     "inquirer": "^8.2.2"
   }

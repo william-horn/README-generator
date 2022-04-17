@@ -1,0 +1,33 @@
+{
+    "licenseRoot": "https://opensource.org/licenses/",
+    "badgeTemplate": "https://img.shields.io/badge/License-@name-@color.svg",
+    "licenseInfo": [
+        {
+            "name": "MIT",
+            "endpoint": "MIT",
+            "badgeColor": "yellow"
+        },
+        {
+            "name": "ISC",
+            "endpoint": "ISC",
+            "badgeColor": "yellow"
+        },
+        {
+            "name": "IBM",
+            "endpoint": "IPL-1.0",
+            "badgeColor": "yellow"
+        },
+        {
+            "name": "MPL",
+            "endpoint": "MPL_2.0",
+            "badgeColor": "yellow"
+        },
+        {
+            "name": "No License",
+            "endpoint": "",
+            "badgeColor": "",
+            "default": true,
+            "info": "This application is not currently under any license agreement."
+        }
+    ]
+}
