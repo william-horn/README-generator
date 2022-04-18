@@ -23,7 +23,7 @@ https://user-images.githubusercontent.com/98601452/163738997-cc88c081-729a-4510-
 
 
   ## Tests
-  No tests currently
+  Find a sample of this README generator by [clicking here](https://github.com/william-horn/generated-readme-sample/blob/main/README.md)
   ## Contributors
   Contributors: 
   William J. Horn
