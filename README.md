@@ -21,7 +21,7 @@ This application is distributed under the [MIT](https://opensource.org/licenses/
 
 https://user-images.githubusercontent.com/98601452/163738997-cc88c081-729a-4510-a64a-6bbe9830e3d6.mp4
 
-For a better quality installation video, visit this link: <https://www.youtube.com/watch?v=NIPVHRO92VA&ab_channel=WilliamHorn>
+For a better quality installation video, [visit here](https://www.youtube.com/watch?v=NIPVHRO92VA&ab_channel=WilliamHorn)
 
 
   ## Tests
