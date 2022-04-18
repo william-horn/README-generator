@@ -16,7 +16,12 @@ This application is distributed under the [MIT](https://opensource.org/licenses/
   ## Usage
   Use this application to save time and writing when working on your next project. Why write the same hundreds or thousands of words out each time you want to create a readme when you only need a template? This application provides this 'readme template' to you!
   ## Installation
-  To get started, first you need to have Node.js installed. Then, check out the video below:
+  To get started, first you need to have Node.js installed. Then, once you have this repository on your local system, enter the `node index` command in your command-line. You will then be prompted with several questions to fill out your readme. Reference:
+  
+
+https://user-images.githubusercontent.com/98601452/163738997-cc88c081-729a-4510-a64a-6bbe9830e3d6.mp4
+
+
   ## Tests
   No tests currently
   ## Contributors
